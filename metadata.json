@@ -1,0 +1,5 @@
+{
+  "name": "MP3 to AI Drawing Slideshow",
+  "description": "Transforms MP3 files into AI-generated drawing slideshows, with various optional visual art styles, matching the song title.",
+  "requestFramePermissions": []
+}
